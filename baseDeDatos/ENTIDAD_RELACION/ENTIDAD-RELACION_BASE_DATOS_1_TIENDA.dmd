@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ENTIDAD-RELACION_BASE_DATOS_1_TIENDA" id="6397CE50-3410-FE60-3646-75766259D160" version="3.5">
+<createdBy>Abel Ecute</createdBy>
+<createdTime>2019-09-26 21:48:34 UTC</createdTime>
+<ownerDesignName>proyectobasededatoser</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6397CE50-3410-FE60-3646-75766259D160</designId>
+</OSDM_Design>

@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ER_LABORATORIO" id="5623DD33-E0EF-597F-0A89-11A88AE7BB49" version="3.5">
+<createdBy>Abel Ecute</createdBy>
+<createdTime>2019-09-27 02:05:08 UTC</createdTime>
+<ownerDesignName>ER_LABORATORIO</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>5623DD33-E0EF-597F-0A89-11A88AE7BB49</designId>
+</OSDM_Design>
